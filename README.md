@@ -23,3 +23,4 @@ CLIENT_ID=xxx
 - pause  - pauses the current song
 - resume - resumes playing the current song
 - exit   - kicks the bot from the voice channel
+# discord-music-bot
